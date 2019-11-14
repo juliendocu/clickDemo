@@ -5,7 +5,8 @@ var dsClickwrapId = 'fecf155d-8917-46c2-a22c-7ebb45b3d587';
 // replace value below with modal or inline depending on your clickwrap type //
 var clickDisplayType = 'modal';
 // replace logo URL below with your customers logo url.  transparent works best //
-var logoUrl = 'https://www.innov8ive.app/LOGO.png';
+// https://www.innov8ive.app/LOGO.png //
+var logoUrl = 'https://lh3.googleusercontent.com/41QVbgtkzZ1sQ5pktBPjKuX-eNKR5GGRB3GtoVdUynVN31cb1IR71dPZ8RNGW-LR0ZwcHjs=s85';
 // replace with your brand hex code.  changes color of header text and button background //
 var fontColor = '#3d00b2';
 // replace with a hex code of your liking.  changes text color on the submit button //
